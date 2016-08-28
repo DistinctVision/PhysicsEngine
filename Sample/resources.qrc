@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GameData/cube.3DS</file>
+        <file>GameData/ship.3DS</file>
+        <file>GameData/cube.jpg</file>
+    </qresource>
+</RCC>
